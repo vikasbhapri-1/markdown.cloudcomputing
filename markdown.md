@@ -3,9 +3,9 @@
 ![array](https://innovationatwork.ieee.org/wp-content/uploads/2019/09/bigstock-d-Rendering-Cloud-Computing-267217441_1024X684.jpg)
 
 
+## What is Cloud Computing?
 Cloud computing has transformed the way we store, manage, and access data. It provides scalable, on-demand access to computing resources over the internet — often referred to as "the cloud".
 
-## What is Cloud Computing?
 
 Cloud computing allows individuals and organizations to use computing resources on the internet such as server ,storage ,databases, networking ,software analytics
 
@@ -70,5 +70,6 @@ Here are some great resources to explore cloud computing further:
 - [oracle cloud infractucture](https://cloud.orace.com)
 
 # Conclusion
+
 
 Cloud computing is essential in today's digital age. Whether you're a developer, business owner, or student, understanding how the usage of the cloud computing can open up new opportunities for innovation, efficiency, and growth.
